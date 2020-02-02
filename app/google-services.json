@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036213293076",
+    "firebase_url": "https://jet-notes.firebaseio.com",
+    "project_id": "jet-notes",
+    "storage_bucket": "jet-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036213293076:android:a8a3bf79cd67ee86b21701",
+        "android_client_info": {
+          "package_name": "com.gaalbaat.jetnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036213293076-gehomeibemhuqpptt5hiej1ac817vgti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaalbaat.jetnotes",
+            "certificate_hash": "403df0ff92b14744882743ea18880584bffa11a5"
+          }
+        },
+        {
+          "client_id": "1036213293076-jsg91jvljdvvc1dr86332k42tuse99bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-bz7eCf2GlRywsN9rLQ4Ngt-IJWwHg-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036213293076-jsg91jvljdvvc1dr86332k42tuse99bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
